@@ -1,6 +1,6 @@
-# Assignment - 01
+# Street-Style-Landing-Page
 
-## Project 01 [Live Link](https://full-stack-js-project-01.netlify.app/)
+## Project 01 [Live Link](https://street-style-landing-pages-01.netlify.app/)
 
 - ### skills used in project
   - CSS Position, media query, flexbox etc.
